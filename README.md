@@ -56,19 +56,6 @@
 
 외부 UI 라이브러리나 소리 파일 없이 만들었어요.
 
-## 시작하기
-
-Node.js 18.18 이상이 필요해요.
-
-```bash
-git clone https://github.com/Aru428/pomo-tube.git
-cd pomo-tube
-npm install
-npm run dev
-```
-
-브라우저에서 http://localhost:3000 을 열면 돼요.
-
 ## 프로젝트 구조
 
 ```
@@ -81,10 +68,6 @@ pomo-tube
 ├── package.json
 └── tsconfig.json
 ```
-
-## 배포
-
-GitHub 레포를 Vercel에서 **Add New → Project**로 Import하면 별도 설정 없이 배포돼요.
 
 ## 안내
 
